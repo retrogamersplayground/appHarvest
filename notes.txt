@@ -1,0 +1,22 @@
+
+
+
+Hello Neil, we are a startup based out of KY called AppHarvest. We have an existing website appharvest.com but want a complete redesign. We have a few specific goals:
+
+-we have a banner video that loads too slowly. we want to load the first frame as an image and lazy load the video in the background.
+
+-we want to clean up our Leadership page by only showing profile pictures in a grid, and then dropping down a description on click/hover.
+
+-similar treatment for our Partners and Press pages: we want to show company logos in a grid, each with a description that appears on interaction (edited)
+
+
+
+The site is currently on Squarespace but with these concepts in mind we're inclined to recode it from scratch on a new hosting platform with complete control, like Wordpress hosting.
+
+
+
+
+
+
+
+I am very interested in the project. This could be a really nice website. To make sure I am a good fit for the project I will need a lot of details for the overall scope of the project, as well as what is needed to acheive the best possible outcome. What is the main goal of the new website? Is the focus on brand exposure, recruiting talent, sales, or something else? I am going to review the entire current site on mobile and desktop. I will look at every page, all the images, all the videos, and go through all the links tonight and tomorrow. Do you want to keep all the original images, copy, and content? Which video is it that you want to lazy load? Will you need to be able to add content to the site on an ongoing basis yourself, or will you need site maintenance? On the partners page there are some partners that do not have an image for the grid that you want to implement. Will images for these partners be provided, or will another solution be necessary? I will also need to know the timeframe for completion.  After talking things over in detail, I would be willing to complete a design for approval using Adobe XD before moving forward with the actual development of the site. Thank you for your consideration, and I look forward to hearing from you.

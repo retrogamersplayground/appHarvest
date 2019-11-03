@@ -1,0 +1,254 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*start of site css*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.showcase {
+    background-image: url('/assets/header2_sizedown.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+nav {
+    padding-top: 50px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.logoLi img {
+    width: 40px;
+    margin-left: 70px;
+}
+
+.navLi {
+    float: right;
+    color: white;
+    font-size: 16px;
+}
+
+.navLi ul li {
+    margin-right: 30px;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 35px;
+    display: inline-block;
+}
+
+h2 {
+    margin-top: 100px;
+    margin-left: 15%;
+    font-size: 42px;
+    display: inline-block;
+}
+
+.description {
+    margin-top: 100px;
+    margin-left: 15%;
+    font-size: 25px;
+    width: 800px;
+    color: rgba(0, 0, 0, 0.705);
+}
+
+.leadershipGrid {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.imgLi img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.outerUl li {
+    list-style: none;
+    display: inline-block;
+}
+
+.innerUl li {
+    list-style: none;
+    display: inline-block;
+}
+
+.outerLi {
+    width: 25%;
+}
+
+.pLi p{
+    display: none;
+    width: 100%;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.pLi2 p{
+    display: none;
+    width: 100%;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.pLi3 p{
+    display: none;
+    width: 100%;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.pLi4 p{
+    display: none;
+    width: 100%;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.pLi5 p{
+    display: none;
+    width: 100%;
+    line-height: 1.5;
+    text-align: left;
+}
+.innerUl .h3Li {
+    display: block;
+}
+
+.outerUl {
+    width: 100%;
+}
+
+.outerUl h3{
+    text-align: left;
+    
+}
+
+footer{
+    background-color: #118641; 
+}
+
+form {
+    padding-bottom: 50px;
+}
+
+form input{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+}
+
+form input::placeholder {
+    margin-left: 0px;
+    color: lightgray;
+    font-size: 14px;
+}
+
+.footerDiv {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+    padding-bottom: 150px;
+}
+
+.footerDiv img {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#submit {
+    color: white;
+    background-color: #118641;
+    border: 2px solid white;
+    font-size: 18px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#submit:hover {
+    color: #118641;
+    background-color: #ffffff;
+}
+
+footer h4 {
+    margin-bottom: 50px;
+}
+
+
+
+footer ul:hover {
+    color: lightslategrey;
+}
+
+footer ul li {
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+footer ul li:hover {
+    color: #ffffff;
+}
+
